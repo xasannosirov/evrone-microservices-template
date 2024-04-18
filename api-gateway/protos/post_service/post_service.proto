@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package post_service;
+option go_package = "genproto/post_service";
+
+import "post.proto";
+
+service PostService {
+  rpc Create(Post) returns (Post);
+  rpc Update(Post) returns (Post);
+  rpc Delete(GetPostRequest) returns (DeletedPost);
+  rpc Get(GetPostRequest) returns (Post); 
+  rpc GetAll(GetAllPostRequest) returns (GetAllPostResponse);
+  rpc GetPostsByUserID(GetPostRequest) returns (GetAllPostResponse);
+}

@@ -1,0 +1,52 @@
+2024-04-18T12:59:22.670+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:59:24.481+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:59:24.482+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/gopher/projects/go/src/go-evron-api-gateway-microservices/cmd/app/main.go:32
+2024-04-18T12:59:27.142+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T13:23:07.098+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T13:27:22.355+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T13:33:34.276+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T13:33:34.278+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/gopher/projects/go/src/go-evron-api-gateway-microservices/cmd/app/main.go:32
+2024-04-18T13:33:41.046+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T13:35:16.118+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T13:35:16.119+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/gopher/projects/go/src/go-evron-api-gateway-microservices/cmd/app/main.go:32
+2024-04-18T13:35:21.937+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T13:35:22.880+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T13:35:22.881+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/gopher/projects/go/src/go-evron-api-gateway-microservices/cmd/app/main.go:32
+2024-04-18T13:35:32.587+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T13:41:08.884+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T13:41:08.885+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/gopher/projects/go/src/go-evron-api-gateway-microservices/cmd/app/main.go:32
+2024-04-18T13:41:13.167+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T14:00:20.543+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T14:00:20.543+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/gopher/projects/go/src/go-evron-api-gateway-microservices/cmd/app/main.go:32
+2024-04-18T14:04:17.081+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T14:06:35.425+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T14:21:50.895+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T14:25:46.346+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T14:25:46.348+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/gopher/projects/go/src/api-gateway/cmd/app/main.go:32
+2024-04-18T14:25:48.540+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T14:31:49.872+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T14:31:49.873+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/gopher/projects/go/src/api-gateway/cmd/app/main.go:32
+2024-04-18T14:31:54.437+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T14:34:18.725+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T14:34:18.727+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/gopher/projects/go/src/api-gateway/cmd/app/main.go:32
+2024-04-18T14:34:21.707+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T14:35:48.989+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T15:00:52.674+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}

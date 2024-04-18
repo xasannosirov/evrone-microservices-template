@@ -1,0 +1,42 @@
+2024-04-18T12:00:03.266+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:07:21.813+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:07:21.814+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/doston/project/go/src/api-gateway/cmd/app/main.go:32
+2024-04-18T12:07:23.995+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:20:28.659+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:20:28.661+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/doston/project/go/src/api-gateway/cmd/app/main.go:32
+2024-04-18T12:26:27.204+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:27:07.698+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:28:19.921+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:29:20.921+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:29:20.923+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/doston/project/go/src/api-gateway/cmd/app/main.go:32
+2024-04-18T12:30:09.029+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:30:21.660+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:30:21.662+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/doston/project/go/src/api-gateway/cmd/app/main.go:32
+2024-04-18T12:30:55.147+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:31:18.724+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:31:18.726+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/doston/project/go/src/api-gateway/cmd/app/main.go:32
+2024-04-18T12:34:02.699+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:35:24.373+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:35:24.375+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/doston/project/go/src/api-gateway/cmd/app/main.go:32
+2024-04-18T12:35:26.319+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:36:08.632+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:36:08.633+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/doston/project/go/src/api-gateway/cmd/app/main.go:32
+2024-04-18T12:36:10.475+0500	INFO	app/main.go:30	Listen: 	{"address": "localhost:50060"}
+2024-04-18T12:37:38.697+0500	INFO	app/main.go:41	api gateway service stops
+2024-04-18T12:37:38.700+0500	ERROR	app/main.go:32	app run	{"error": "http: Server closed"}
+main.main.func1
+	/home/doston/project/go/src/api-gateway/cmd/app/main.go:32

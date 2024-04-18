@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+package user_service;
+option go_package = "genproto/user_service";
+
+import "user.proto";
+
+service UserService {
+  rpc Create(User) returns (GetUserRequest);
+  rpc Get(GetUserRequest) returns (User);
+  rpc Update(User) returns (User);
+  rpc Delete(GetUserRequest) returns (DeletedUser);
+  rpc GetAll(GetAllUserRequest) returns (GetAllUserResponse);
+}

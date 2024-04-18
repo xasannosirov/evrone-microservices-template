@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package comment_service;
+option go_package = "genproto/comment_service";
+
+import "comment.proto";
+
+service CommentService {
+  rpc Create(Comment) returns (Comment);
+  rpc Update(Comment) returns (Comment);
+  rpc Delete(GetCommentRequest) returns (DeletedComment);
+  rpc Get(GetCommentRequest) returns (Comment);
+  rpc GetAll(GetAllCommentRequest) returns (GetAllCommentResponse);
+  rpc GetCommentsByPostID(GetCommentRequest) returns (GetAllCommentResponse);
+}
